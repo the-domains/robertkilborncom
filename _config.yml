@@ -6,9 +6,9 @@ color:
   saturation: 0.7532826731912792
   rhythmicContrast: 0.9144771837163717
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 name: RobertKilborn.com
