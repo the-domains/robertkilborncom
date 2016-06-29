@@ -1,7 +1,7 @@
 ---
 description: 'DREAM WITH BIRDS, CLOUDS AND WATER'
-dateModified: '2016-06-29T02:23:40.887Z'
-datePublished: '2016-06-29T02:24:12.680Z'
+dateModified: '2016-06-29T03:23:58.721Z'
+datePublished: '2016-06-29T03:25:42.555Z'
 title: Readers comment on . . .
 author: []
 sourcePath: _posts/2016-06-28-readers-comment.md
@@ -14,18 +14,22 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec73071d-ce11-43b0-aa35-f575cc871946.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d73ab2c50d8e70e706aa164006d3e25e52e9e43b.jpg)
 
 ## **Readers comment on . . .**
 
-DREAM WITH BIRDS, CLOUDS AND WATER
+**DREAM WITH BIRDS, CLOUDS AND WATER**
 
 _"Very poignant and unexpected. Beautifully written." _---David Anderson, Owner, Anderson Illustration
 
-_"This is what every writer yearns for (& reader) to be able to deliver." _---Joanna, Freelance Writer, Poet & Social Media Consultant
+_"This is what every writer and reader yearns for, and what writers want to deliver." _---Joanna, Freelance Writer, Poet & Social Media Consultant
+
+_"I'm reading this at 6 o'clock in the morning and I will be thinking about it all day. Thank you, Robert - so evocative." _---Pamela Ireland
+
+_"Eloquent writing! I was deeply moved."_ ---Kristen Campo, Art Consultant at Nan Miller Gallery
 
 _"Rich, fluid, vivid writing: an emotional, and memorable, piece."_ ---Anna Mattiuzzo, CEO, Mamma Oceania Handmade Soap
 
 ELEKTRA WILL TAKE THE TOP OF YOUR HEAD OFF
 
-_"Robert, your review of "Elektra" is extraordinary, a really brilliant savvy post. It moved me, gave me chills and your writing is incredibly evocative and powerful. I was blown away."_ ---Joanna, Freelance Writer, Poet & Social Media Consultant
+_"Robert, your review of Elektra is extraordinary, a really brilliant savvy post. It moved me, gave me chills and your writing is incredibly evocative and powerful. I was blown away."_ ---Joanna, Freelance Writer, Poet & Social Media Consultant
