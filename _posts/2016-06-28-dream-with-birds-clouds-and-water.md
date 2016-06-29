@@ -1,7 +1,7 @@
 ---
 description: by Robert Kilborn
-dateModified: '2016-06-28T22:45:29.640Z'
-datePublished: '2016-06-28T22:45:53.997Z'
+dateModified: '2016-06-29T02:56:57.724Z'
+datePublished: '2016-06-29T03:25:13.056Z'
 title: 'Dream with birds, clouds and water'
 author: []
 isBasedOnUrl: >-
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eb9ad45-41d4-4f90-87df-0c3cfb39e194.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/620dbd30-b009-4d4a-a318-5863392161e6.jpg)
 
 ## **Dream with birds, clouds and water**
 
