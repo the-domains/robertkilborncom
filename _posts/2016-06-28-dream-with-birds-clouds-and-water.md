@@ -1,13 +1,13 @@
 ---
 description: by Robert Kilborn
-dateModified: '2016-06-29T02:56:57.724Z'
-datePublished: '2016-06-29T03:25:13.056Z'
+dateModified: '2016-06-29T15:50:42.951Z'
+datePublished: '2016-06-29T15:50:44.238Z'
 title: 'Dream with birds, clouds and water'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffe46e11-9d3e-4f09-870f-686d2e44bd1c.jpg
 sourcePath: _posts/2016-06-28-dream-with-birds-clouds-and-water.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,7 +18,7 @@ _type: MediaObject
 
 ## **Dream with birds, clouds and water**
 
-by Robert Kilborn
+**by Robert Kilborn**
 
 I MET my friend Roger Stille the dancer on an early August afternoon when Montreal had reached that peak summer moment of sultry-humid, close, airless stillness, when its streets are like fissures in a ripe persimmon about to burst. For a month, nothing seems to happen. People drink beer on their balconies. Some escape to their country houses. No one cares about money or language. The world, though not perfect, settles into a thoughtless dream. Roger and I sit in a café with ceiling fans, his burgundy scarf fluttering in the breeze, and he tells me this story.
 
@@ -33,3 +33,7 @@ Roger sipped his tea, raising his arm to adjust his scarf with the studied carel
 "A man in his 80s took the stage. He looked like the white-bearded King Lear character in Kurosawa's _Ran_, and wore a rough Japanese singlet over traditional peasant pants. He began to perform the identical piece the young star of the company had just finished minutes before: the story of a poet's dream, with birds, clouds, and water. His movements were slower, more restrained, and sometimes his limbs trembled. Some of his movements were not as technically perfect as the much younger man's, but they contained nuances---the throw of a hand, a cat-like raising of the shoulders---that mesmerized everyone in the studio. As the _biwa_ strained at three or four final plucked notes, the octogenarian dancer arrived at the end of the story, the death of the poet's dream. His dying body settled into the water and drifted up to the clouds. He stared at us fiercely, and then he closed his eyes. The performance was over.
 
 "There was a brief silence. And then every person in the studio---Japanese and Canadian---began to weep."
+
+[Tuck Magazine][0]
+
+[0]: http://tuckmagazine.com/2015/04/07/fiction-dream-with-birds-clouds-and-water/ "Dream with birds, clouds and water"
