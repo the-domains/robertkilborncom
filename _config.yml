@@ -1,14 +1,14 @@
-layout_spectrum: 0.48243776778690517
-typography_spectrum: 0.4694249089807272
+layout_spectrum: 0.11331024300307035
+typography_spectrum: 0.0036548064090311527
 color:
-  brandStrength: 0.8003350999206305
-  lightness: 0.9616019681561738
-  saturation: 0.7532826731912792
-  rhythmicContrast: 0.9144771837163717
+  brandStrength: 0.7839031827170402
+  lightness: 0.5335601773113012
+  saturation: 0.19567829533480108
+  rhythmicContrast: 0.9588364125229418
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: RobertKilborn.com
